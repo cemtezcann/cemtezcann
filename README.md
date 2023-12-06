@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
-<h3 align="center">Welcome to my profile! I am a passionate full-stack developer from Türkiye who loves learning and coding, striving to improve myself every day. My interests lie in web programming, industrial automation systems, and financial applications. I work with technologies such as C#, .NET, Java, Spring, JavaScript, and React. I am open to help and constructive criticism, always ready to assist. Happy coding!</h3>
+<p3 align="center">Welcome to my profile! I am a passionate full-stack developer from Türkiye who loves learning and coding, striving to improve myself every day. My interests lie in web programming, industrial automation systems, and financial applications. I work with technologies such as C#, .NET, Java, Spring, JavaScript, and React. I am open to help and constructive criticism, always ready to assist. Happy coding!</p3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
